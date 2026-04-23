@@ -5,7 +5,7 @@
 
 <br>
 
-![KNNTHDMYO](https://capsule-render.vercel.app/api?type=waving&color=000&height=200&section=header&text=KNNTHDMYO&fontSize=60&fontColor=fff&fontAlignY=35)
+![KNNTHDMYO](https://capsule-render.vercel.app/api?type=waving&color=0:000,50:1a1a2e,100:16213e&height=200&section=header&text=KNNTHDMYO&fontSize=60&fontColor=fff&fontAlignY=35&animation=twinkling)
 
 <br>
 
@@ -80,19 +80,19 @@
 ### JOURNEY
 
 > **🏫 MySchool** · Frontend Tech Lead · Hybrid
-> `Feb 2026 → Present`
+> Feb 2026 → Present
 
 > **💻 SNSoft Technology Inc.** · Frontend Developer · Onsite
-> `Feb 2025 → Feb 2026`
+> Feb 2025 → Feb 2026
 
 > **📊 Performativ UK** · Frontend Developer · Remote
-> `Nov 2021 → Sep 2024`
+> Nov 2021 → Sep 2024
 
 > **⚙️ XtendOps BPO** · Frontend Developer · Hybrid
-> `Oct 2020 → Jan 2022`
+> Oct 2020 → Jan 2022
 
 > **🚀 StackTrek Enterprise** · Junior Frontend Developer · Onsite
-> `Mar 2019 → Oct 2020`
+> Mar 2019 → Oct 2020
 
 > **🎓 Education**
 > BS Information Technology · Central Philippine University · 2018
